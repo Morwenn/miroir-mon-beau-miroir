@@ -1,6 +1,6 @@
 The finest test page to ever be, I sure hope you like it.
 
-This is mostly copy-paste from other projects to ensure that things render correctly.
+This is mostly copy-pasted from other projects to ensure that things render correctly.
 
 ## Measures of presortedness
 
