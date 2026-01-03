@@ -32,6 +32,8 @@ jobs:
 
       - name: Sync wiki files
         run: |
+          apt-get update
+          apt-get install -y rsync
           for docname in main/docs/*.md; do
             old=$(basename "$docname");
             new=${old%.*};
